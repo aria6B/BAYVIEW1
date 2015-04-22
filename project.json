@@ -1,0 +1,10 @@
+{
+    "name": "BAYVIEW1",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "BAYVIEW1.xml",
+    "author": "aria6B",
+    "minimum_firmware_version": 42
+}
